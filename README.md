@@ -1,5 +1,5 @@
 
-# Audio Player!
+# Media Player!
 
 In this project I am building an app that showcase different kinds of functions for audio player. It is also using Aria which is really helpful for people with diabilities and explain functions using ChromeVox extension function.
 
